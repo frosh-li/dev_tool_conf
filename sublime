@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "monaco",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+	],
+	"tern_argument_hints": false,
+	"tern_arguments":
+	[
+		"--persistent",
+		"--no-port-file"
+	],
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true
+}
